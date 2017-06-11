@@ -1,0 +1,4 @@
+0. The game accepts board dimensions from 3x3 to 9x9 inclusive
+1. The game board is represented as a two-dimensional array
+2. The function greet [void greet(void)] is called at the beginning of the game
+3. I need to implement the functions init, draw, move and won
